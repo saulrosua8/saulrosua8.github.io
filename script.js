@@ -88,7 +88,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       break;
 
     case 3:
-      document.getElementById("noBtn").innerHTML = "¿Eres nemesis?";
+      document.getElementById("noBtn").innerHTML = "¿tonto el paco que le gusta la alba?";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
